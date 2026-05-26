@@ -1,0 +1,9 @@
+C:\Users\Zhang\OneDrive\Desktop\Plugins\XyzUI\XyzUI\bin\Debug\net48\XyzUI.dll
+C:\Users\Zhang\OneDrive\Desktop\Plugins\XyzUI\XyzUI\bin\Debug\net48\XyzUI.pdb
+C:\Users\Zhang\OneDrive\Desktop\Plugins\XyzUI\XyzUI\obj\Debug\net48\XyzUI.csproj.AssemblyReference.cache
+C:\Users\Zhang\OneDrive\Desktop\Plugins\XyzUI\XyzUI\obj\Debug\net48\XyzUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhang\OneDrive\Desktop\Plugins\XyzUI\XyzUI\obj\Debug\net48\XyzUI.AssemblyInfoInputs.cache
+C:\Users\Zhang\OneDrive\Desktop\Plugins\XyzUI\XyzUI\obj\Debug\net48\XyzUI.AssemblyInfo.cs
+C:\Users\Zhang\OneDrive\Desktop\Plugins\XyzUI\XyzUI\obj\Debug\net48\XyzUI.csproj.CoreCompileInputs.cache
+C:\Users\Zhang\OneDrive\Desktop\Plugins\XyzUI\XyzUI\obj\Debug\net48\XyzUI.dll
+C:\Users\Zhang\OneDrive\Desktop\Plugins\XyzUI\XyzUI\obj\Debug\net48\XyzUI.pdb

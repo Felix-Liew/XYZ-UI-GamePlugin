@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = FelixLiew.XyzUI
+build_property.ProjectDir = C:\Users\Zhang\OneDrive\Desktop\Plugins\XyzUI\XyzUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
